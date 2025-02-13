@@ -1,0 +1,14 @@
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\bin\Debug\net8.0\Softmax.exe
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\bin\Debug\net8.0\Softmax.deps.json
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\bin\Debug\net8.0\Softmax.runtimeconfig.json
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\bin\Debug\net8.0\Softmax.dll
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\bin\Debug\net8.0\Softmax.pdb
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.AssemblyInfoInputs.cache
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.AssemblyInfo.cs
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.csproj.CoreCompileInputs.cache
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.dll
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\refint\Softmax.dll
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.pdb
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\Softmax.genruntimeconfig.cache
+C:\Users\umuto\Desktop\Lecture\Second Grade\2nd Term\Analysis and Design of Algorithms\Assignments\Softmax\Softmax\obj\Debug\net8.0\ref\Softmax.dll
