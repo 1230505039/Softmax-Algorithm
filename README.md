@@ -1,2 +1,2 @@
 # Softmax-Algorithm
-Calculating optimal bus top via Softmax
+Calculating optimal bus stop via Softmax
